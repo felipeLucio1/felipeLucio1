@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning web development
 
 - 📫 How to reach me:
-e-mail: felipelucio2009@gmail.com
+e-mail: felipelucio2009@gmail.com 
+
 https://linkedin.com//in/felipelucionsc
 
 <!---
