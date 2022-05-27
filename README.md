@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @felipeLucio1, a computer scientist!
 - 👀 I’m interested in web development,mobile development, accessibility on development workflow, data science
-- 🌱 I’m currently learning web development
+- 🌱 I'm currently increasing my programming skills. I invite you to see my repositories ;)
 
 - 📫 How to reach me:
 e-mail: felipelucio2009@gmail.com 
