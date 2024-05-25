@@ -5,7 +5,9 @@
 - 📫 How to reach me:
 e-mail: felipelucio2009@gmail.com 
 
-https://linkedin.com//in/felipelucionsc
+linkedin -> https://linkedin.com//in/felipelucionsc
+
+site pessoal -> https://felipeluciodev.wixsite.com/home
 
 <!---
 felipeLucio1/felipeLucio1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
